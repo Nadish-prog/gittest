@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn{
+    @apply border-2 border-gray-500 shadow-sm shadow-black h-20 bg-slate-100;
+}
